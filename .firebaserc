@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "eclairage-intelligent-c7e4f": {
+      "hosting": {
+        "eclairage-intelligent": [
+          "eclairage-intelligent-c7e4f"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "eclairage-intelligent-c7e4f"
+  }
+}

@@ -24,6 +24,11 @@
       "dom"
     ]
   },
+  "types": [
+    "node",
+    "@angular/core",
+    "@angular/fire"
+  ],
   "angularCompilerOptions": {
     "enableI18nLegacyMessageIdFormat": false,
     "strictInjectionParameters": true,
